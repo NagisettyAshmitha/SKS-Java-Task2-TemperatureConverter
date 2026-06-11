@@ -66,7 +66,7 @@ SKS-Java-Task2-TemperatureConverter
 
 ## Author
 
-Ashmi Nagisetty
+Ashmitha Nagisetty
 
 Java Development Internship Project
 
